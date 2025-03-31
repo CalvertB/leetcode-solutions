@@ -41,10 +41,12 @@ Each category contains solutions that are named by the problem number followed b
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/CalvertB/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/CalvertB/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/CalvertB/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/CalvertB/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
