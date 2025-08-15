@@ -63,8 +63,13 @@ Each category contains solutions that are named by the problem number followed b
 | [0049-group-anagrams](https://github.com/CalvertB/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/CalvertB/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/CalvertB/leetcode-solutions/tree/master/0344-reverse-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/CalvertB/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/CalvertB/leetcode-solutions/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/CalvertB/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
